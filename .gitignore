@@ -34,4 +34,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-/Pong/Assets/Audio/Jacks Audio Assets/*.meta
